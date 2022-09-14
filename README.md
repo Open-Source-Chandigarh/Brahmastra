@@ -10,6 +10,7 @@ A FontStyle applyer made to add fontstyle by just putting class name in class ta
 It utilises the open source google fonts library [fonts.google.com](https://fonts.google.com) for all the fonts.
 ### How to apply
 Just add the font name with the prefix ```brahmastra-``` in the class of your desired tag and the font will be applied automatically to the text.
+Please refer to [fonts.google.com](https://fonts.google.com) for correct font names.
 ```html
 <a class="brahmastra-Poppins-30">Welcome to Brahmastra</a>
 <p class="brahmastra-Oswald">Welcome to Brahmastra</p>
